@@ -1,0 +1,10 @@
+# 数据库配置
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=your_password
+DB_NAME=test
+DB_CHARSET=utf8mb4
+
+# 日志级别
+LOG_LEVEL=INFO 

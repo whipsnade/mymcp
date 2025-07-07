@@ -1,0 +1,11 @@
+2025-07-07 12:54:31,559 - database - INFO - 数据库连接成功
+2025-07-07 12:54:31,559 - database - INFO - 数据库连接已断开
+2025-07-07 12:54:31,725 - database - INFO - 数据库连接成功
+2025-07-07 12:54:31,769 - database - ERROR - 表 'users' 不存在或没有列
+2025-07-07 12:54:31,769 - database - INFO - 数据库连接已断开
+2025-07-07 12:54:31,769 - dify_mcp_server - INFO - 开始导入Excel文件: https://example.com/test.xlsx
+2025-07-07 12:54:31,770 - dify_mcp_server - INFO - 目标表名: test_table
+2025-07-07 12:54:31,928 - database - INFO - 数据库连接成功
+2025-07-07 12:54:31,967 - database - ERROR - 表 'test_table' 不存在或没有列
+2025-07-07 12:54:31,968 - excel_to_mysql - ERROR - 无法获取表 'test_table' 的结构
+2025-07-07 12:54:31,968 - database - INFO - 数据库连接已断开

@@ -1,0 +1,1317 @@
+2025-07-07 11:06:33,412 - database - INFO - 数据库连接成功
+2025-07-07 11:06:33,688 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmpjs6pevzq.xls
+2025-07-07 11:06:33,689 - excel_processor - ERROR - 列 'id' 在Excel中不存在
+2025-07-07 11:06:33,689 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 11:06:33,689 - database - INFO - 数据库连接已断开
+2025-07-07 11:16:49,481 - database - INFO - 数据库连接成功
+2025-07-07 11:16:49,524 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 0
+2025-07-07 11:16:49,709 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmpfvsnnkl0.xls
+2025-07-07 11:16:49,710 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为1
+2025-07-07 11:16:49,710 - excel_processor - ERROR - 列 '合同分类' 在Excel中不存在
+2025-07-07 11:16:49,710 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 11:16:49,710 - database - INFO - 数据库连接已断开
+2025-07-07 11:17:31,843 - database - INFO - 数据库连接成功
+2025-07-07 11:17:31,883 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 0
+2025-07-07 11:17:32,074 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmphlomd9jz.xls
+2025-07-07 11:17:32,075 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为1
+2025-07-07 11:17:32,075 - excel_processor - ERROR - 列 '合同分类' 在Excel中不存在
+2025-07-07 11:17:32,075 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 11:17:32,075 - database - INFO - 数据库连接已断开
+2025-07-07 11:18:20,604 - database - INFO - 数据库连接成功
+2025-07-07 11:18:20,646 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 0
+2025-07-07 11:18:20,840 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmp4xlblxmn.xls
+2025-07-07 11:18:20,842 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为1
+2025-07-07 11:18:20,842 - excel_processor - ERROR - 列 '合同分类' 在Excel中不存在
+2025-07-07 11:18:20,842 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 11:18:20,842 - database - INFO - 数据库连接已断开
+2025-07-07 11:19:19,875 - database - INFO - 数据库连接成功
+2025-07-07 11:19:19,915 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 0
+2025-07-07 11:19:20,108 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmpm5sgy7cj.xls
+2025-07-07 11:19:20,109 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为1
+2025-07-07 11:19:20,109 - excel_processor - ERROR - 列 '合同分类' 在Excel中不存在
+2025-07-07 11:19:20,109 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 11:19:20,109 - database - INFO - 数据库连接已断开
+2025-07-07 11:46:53,849 - database - INFO - 数据库连接成功
+2025-07-07 11:46:53,946 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 0
+2025-07-07 11:46:54,178 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmpvdolzwu1.xls
+2025-07-07 11:46:54,180 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为1
+2025-07-07 11:46:54,180 - excel_processor - ERROR - 列 '合同分类' 在Excel中不存在
+2025-07-07 11:46:54,180 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 11:46:54,180 - database - INFO - 数据库连接已断开
+2025-07-07 11:48:01,889 - database - INFO - 数据库连接成功
+2025-07-07 11:48:01,929 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 0
+2025-07-07 11:48:02,124 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmp0qvefaqp.xls
+2025-07-07 11:48:02,125 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为1
+2025-07-07 11:48:02,126 - excel_processor - ERROR - 列 '合同分类' 在Excel中不存在
+2025-07-07 11:48:02,126 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 11:48:02,126 - database - INFO - 数据库连接已断开
+2025-07-07 11:49:35,566 - database - INFO - 数据库连接成功
+2025-07-07 11:49:35,605 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 0
+2025-07-07 11:49:35,777 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmp4p36h9ek.xls
+2025-07-07 11:49:35,779 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为1
+2025-07-07 11:49:35,779 - excel_processor - ERROR - 列 '合同分类' 在Excel中不存在
+2025-07-07 11:49:35,779 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 11:49:35,779 - database - INFO - 数据库连接已断开
+2025-07-07 11:53:30,319 - database - INFO - 数据库连接成功
+2025-07-07 11:53:30,358 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 0
+2025-07-07 11:53:30,550 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmp8dwl4mfj.xlsx
+2025-07-07 11:53:30,550 - excel_processor - INFO - Excel文件中的列名: ['OA-PROD', 'SO20241227006129', 'SO20241227006129_L7', 'Unnamed: 3', '项目采购', 'ZT202502274685', 'C2412310089', '广州优顿电子科技有限公司', '初审驳回', '关键事件法', 'G032904', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', '2025-03-29 23:10:25', '李荟', '其他', '无法审批', '李晓欢', '2025-04-06 14:03:42', 'Unnamed: 20', 'Unnamed: 21', 'Unnamed: 22', 'Unnamed: 23', 'Unnamed: 24', '37676.0000000000', 0, '0.1', 37676, 33341.59, '37676.1', '33341.59.1', '0008838', '李娜', 'Unnamed: 34', 'Unnamed: 35', 'Unnamed: 36', '单笔', '已终止', '20250227010', '技术底座', 'MQ08', '通用技术底座', '销售外采硬件产品', 'Unnamed: 44', '2024-12-27 00:00:00', '2025-12-27 00:00:00', '关键事件法.1', 0.13, '生效', '6001', '上海明奇网络科技有限公司', 'Unnamed: 52', '直客', 'Unnamed: 54', '2024-12-27 00:00:00.1', '2025-12-27 00:00:00.1', 5470.5, 'Unnamed: 58', 822501, 727877.05, 'Unnamed: 61', '明奇科技', 'Unnamed: 63', 'Unnamed: 64', 'Unnamed: 65', '天数', 120, 'Unnamed: 68', 'Unnamed: 69', 'Unnamed: 70', '2025-04-07', 'Unnamed: 72', 'CNY', '20241231101', 'Unnamed: 75', 'Unnamed: 76', 'Unnamed: 77', 'Unnamed: 78', '0.2', '0.3', '0.4', '0.5', '37676.2', 'Unnamed: 84', '37676.3', 1, '33341.59.2', 45809]
+2025-07-07 11:53:30,550 - excel_processor - INFO - Excel文件中的数据行数: 142
+2025-07-07 11:53:30,551 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为1
+2025-07-07 11:53:30,551 - excel_processor - ERROR - 列 '合同分类' 在Excel中不存在
+2025-07-07 11:53:30,551 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 11:53:30,551 - database - INFO - 数据库连接已断开
+2025-07-07 11:56:27,649 - database - INFO - 数据库连接成功
+2025-07-07 11:56:27,687 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 0
+2025-07-07 11:56:27,855 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmpz4yo545o.xlsx
+2025-07-07 11:56:27,855 - excel_processor - INFO - Excel文件中的列名: ['合同分类', '合同编号', '合同行编码', '框架编号', '合同名称', '甲方编码', '项目编号', '甲方', '财务审核状态', '收入确认类型', '申请编号', '交付物类型', '交付物/客户确认单', '交付物描述', '提交时间', '提交人', '财务反馈问题分类', '财务反馈', '审核人', '审核时间', '收入确认日期', 'GL日期', '汇率日期', '关键事件法描述', '对齐', '本次确认金额', '已确认收入含税金额', '已确认收入不含税金额', '未确认收入含税金额', '未确认收入不含税金额', '行原币含税金额', '行原币不含税金额', '销售编码', '销售', '执行主管编码', '执行主管', '执行人', '合同类型', '合同状态', '产品编码', '二级产品线', '产品分类编码', '一级产品线', '财务收入类型', '业务收入类型', '收入行开始日期', '收入行结束日期', '收入确认类型.1', '税率', '行状态', '乙方编码', '乙方', '客户订单系统编码', '合同客户类型', '合同广告主', '合同开始日期', '合同结束日期', '税额', '合同归档日期', '人民币金额（含税）', '原币金额（不含税）', '原币金额（不含税）.1', '部门', '所属集团', '创建日期', '广告主行业', '账期类型', '账期', '其他账期', '创建人', '合同签订日期', '合同作废日期', '更新时间', '原币币种', '商机编号', '商机名称', '商机金额', '其他销售编码', '其他销售', '收入原币含税金额', '收入原币不含税金额', '收入本币含税金额', '收入本币不含税金额', '确认金额', '未确认金额', '单价', '数量', '验收金额', '验收月份']
+2025-07-07 11:56:27,856 - excel_processor - INFO - Excel文件中的数据行数: 143
+2025-07-07 11:56:27,857 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为1
+2025-07-07 11:56:27,857 - excel_processor - INFO - 数据类型验证通过
+2025-07-07 11:56:27,879 - excel_processor - INFO - 数据清理完成，共处理143行数据
+2025-07-07 11:56:27,885 - excel_processor - INFO - 成功转换143行数据为元组格式
+2025-07-07 11:56:28,099 - database - INFO - 批量SQL执行成功，共143条记录
+2025-07-07 11:56:28,100 - excel_to_mysql - INFO - 成功导入143条记录到表 'mq_income_1714500000000'
+2025-07-07 11:56:28,100 - database - INFO - 数据库连接已断开
+2025-07-07 12:29:54,730 - database - INFO - 数据库连接成功
+2025-07-07 12:29:54,772 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 143
+2025-07-07 12:30:04,372 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmp39sn5p6x.xlsx
+2025-07-07 12:30:04,373 - excel_processor - INFO - Excel文件中的列名: ['财务审核状态', '(多项)', 'Unnamed: 2', 'Unnamed: 3']
+2025-07-07 12:30:04,373 - excel_processor - INFO - Excel文件中的数据行数: 14
+2025-07-07 12:30:04,379 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为144
+2025-07-07 12:30:04,379 - excel_processor - ERROR - 列 '合同分类' 在Excel中不存在
+2025-07-07 12:30:04,379 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 12:30:04,380 - database - INFO - 数据库连接已断开
+2025-07-07 12:31:46,481 - database - INFO - 数据库连接成功
+2025-07-07 12:31:46,531 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 143
+2025-07-07 12:31:56,002 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmput2s0bd8.xlsx
+2025-07-07 12:31:56,002 - excel_processor - INFO - Excel文件中的列名: ['财务审核状态', '(多项)', 'Unnamed: 2', 'Unnamed: 3']
+2025-07-07 12:31:56,002 - excel_processor - INFO - Excel文件中的数据行数: 14
+2025-07-07 12:31:56,007 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为144
+2025-07-07 12:31:56,008 - excel_processor - ERROR - 列 '合同分类' 在Excel中不存在
+2025-07-07 12:31:56,008 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 12:31:56,008 - database - INFO - 数据库连接已断开
+2025-07-07 12:34:48,285 - database - INFO - 数据库连接成功
+2025-07-07 12:34:48,329 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 143
+2025-07-07 12:34:58,129 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmp56w056vm.xlsx
+2025-07-07 12:34:58,129 - excel_processor - INFO - Excel文件中的列名: ['财务审核状态', '(多项)', 'Unnamed: 2', 'Unnamed: 3']
+2025-07-07 12:34:58,130 - excel_processor - INFO - Excel文件中的数据行数: 14
+2025-07-07 12:34:58,130 - excel_processor - INFO - === Excel列名详细信息 ===
+2025-07-07 12:34:58,130 - excel_processor - INFO - 列 1: '财务审核状态' (类型: <class 'str'>, 长度: 6, 编码: b'\xe8\xb4\xa2\xe5\x8a\xa1\xe5\xae\xa1\xe6\xa0\xb8\xe7\x8a\xb6\xe6\x80\x81')
+2025-07-07 12:34:58,130 - excel_processor - INFO - 列 2: '(多项)' (类型: <class 'str'>, 长度: 4, 编码: b'(\xe5\xa4\x9a\xe9\xa1\xb9)')
+2025-07-07 12:34:58,130 - excel_processor - INFO - 列 3: 'Unnamed: 2' (类型: <class 'str'>, 长度: 10, 编码: b'Unnamed: 2')
+2025-07-07 12:34:58,130 - excel_processor - INFO - 列 4: 'Unnamed: 3' (类型: <class 'str'>, 长度: 10, 编码: b'Unnamed: 3')
+2025-07-07 12:34:58,135 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为144
+2025-07-07 12:34:58,135 - excel_processor - INFO - === 开始验证数据类型 ===
+2025-07-07 12:34:58,135 - excel_processor - INFO - Excel中的列名: ['id', '财务审核状态', '(多项)', 'Unnamed: 2', 'Unnamed: 3']
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库表结构中的列名: ['id', '合同分类', '合同编号', '合同行编码', '框架编号', '合同名称', '甲方编码', '项目编号', '甲方', '财务审核状态', '收入确认类型', '申请编号', '交付物类型', '交付物/客户确认单', '交付物描述', '提交时间', '提交人', '财务反馈问题分类', '财务反馈', '审核人', '审核时间', '收入确认日期', 'GL日期', '汇率日期', '关键事件法描述', '对齐', '本次确认金额', '已确认收入含税金额', '已确认收入不含税金额', '未确认收入含税金额', '未确认收入不含税金额', '行原币含税金额', '行原币不含税金额', '销售编码', '销售', '执行主管编码', '执行主管', '执行人', '合同类型', '合同状态', '产品编码', '二级产品线', '产品分类编码', '一级产品线', '财务收入类型', '业务收入类型', '收入行开始日期', '收入行结束日期', '收入确认类型.1', '税率', '行状态', '乙方编码', '乙方', '客户订单系统编码', '合同客户类型', '合同广告主', '合同开始日期', '合同结束日期', '税额', '合同归档日期', '人民币金额（含税）', '原币金额（不含税）', '原币金额（不含税）.1', '部门', '所属集团', '创建日期', '广告主行业', '账期类型', '账期', '其他账期', '创建人', '合同签订日期', '合同作废日期', '更新时间', '原币币种', '商机编号', '商机名称', '商机金额', '其他销售编码', '其他销售', '收入原币含税金额', '收入原币不含税金额', '收入本币含税金额', '收入本币不含税金额', '确认金额', '未确认金额', '单价', '数量', '验收金额', '验收月份']
+2025-07-07 12:34:58,135 - excel_processor - INFO - Excel列名: 'id' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,135 - excel_processor - INFO - Excel列名: '财务审核状态' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,135 - excel_processor - INFO - Excel列名: '(多项)' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,135 - excel_processor - INFO - Excel列名: 'Unnamed: 2' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:34:58,135 - excel_processor - INFO - Excel列名: 'Unnamed: 3' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: 'id' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '合同分类' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '合同编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '合同行编码' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '框架编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '合同名称' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '甲方编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '项目编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '甲方' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '财务审核状态' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '收入确认类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '申请编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '交付物类型' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '交付物/客户确认单' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '交付物描述' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:34:58,135 - excel_processor - INFO - 数据库列名: '提交时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '提交人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '财务反馈问题分类' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '财务反馈' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '审核人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '审核时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '收入确认日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: 'GL日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '汇率日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '关键事件法描述' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '对齐' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '本次确认金额' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '已确认收入含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '已确认收入不含税金额' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '未确认收入含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '未确认收入不含税金额' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '行原币含税金额' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '行原币不含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '销售编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '销售' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '执行主管编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '执行主管' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '执行人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '合同类型' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '合同状态' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '产品编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '二级产品线' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '产品分类编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '一级产品线' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '财务收入类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '业务收入类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '收入行开始日期' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '收入行结束日期' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '收入确认类型.1' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '税率' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '行状态' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '乙方编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '乙方' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '客户订单系统编码' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '合同客户类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '合同广告主' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '合同开始日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '合同结束日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '税额' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '合同归档日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '人民币金额（含税）' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '原币金额（不含税）' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '原币金额（不含税）.1' (类型: <class 'str'>, 长度: 11)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '部门' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '所属集团' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '创建日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '广告主行业' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '账期类型' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '账期' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '其他账期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,136 - excel_processor - INFO - 数据库列名: '创建人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '合同签订日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '合同作废日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '更新时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '原币币种' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '商机编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '商机名称' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '商机金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '其他销售编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '其他销售' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '收入原币含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '收入原币不含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '收入本币含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '收入本币不含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '确认金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '未确认金额' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '单价' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '数量' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '验收金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 数据库列名: '验收月份' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:34:58,137 - excel_processor - INFO - 检查列 'id' 是否在Excel中存在...
+2025-07-07 12:34:58,137 - excel_processor - INFO - ✅ 列 'id' 在Excel中存在
+2025-07-07 12:34:58,137 - excel_processor - INFO - 检查列 '合同分类' 是否在Excel中存在...
+2025-07-07 12:34:58,137 - excel_processor - ERROR - 列 '合同分类' 在Excel中不存在
+2025-07-07 12:34:58,137 - excel_processor - INFO - 检查列 '合同编号' 是否在Excel中存在...
+2025-07-07 12:34:58,137 - excel_processor - ERROR - 列 '合同编号' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '合同行编码' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '合同行编码' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '框架编号' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '框架编号' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '合同名称' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '合同名称' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '甲方编码' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '甲方编码' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '项目编号' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '项目编号' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '甲方' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '甲方' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '财务审核状态' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - INFO - ✅ 列 '财务审核状态' 在Excel中存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '收入确认类型' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '收入确认类型' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '申请编号' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '申请编号' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '交付物类型' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '交付物类型' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '交付物/客户确认单' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '交付物/客户确认单' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '交付物描述' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '交付物描述' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '提交时间' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '提交时间' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '提交人' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '提交人' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '财务反馈问题分类' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '财务反馈问题分类' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '财务反馈' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '财务反馈' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '审核人' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '审核人' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '审核时间' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '审核时间' 在Excel中不存在
+2025-07-07 12:34:58,138 - excel_processor - INFO - 检查列 '收入确认日期' 是否在Excel中存在...
+2025-07-07 12:34:58,138 - excel_processor - ERROR - 列 '收入确认日期' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 'GL日期' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 'GL日期' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '汇率日期' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '汇率日期' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '关键事件法描述' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '关键事件法描述' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '对齐' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '对齐' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '本次确认金额' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '本次确认金额' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '已确认收入含税金额' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '已确认收入含税金额' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '已确认收入不含税金额' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '已确认收入不含税金额' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '未确认收入含税金额' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '未确认收入含税金额' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '未确认收入不含税金额' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '未确认收入不含税金额' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '行原币含税金额' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '行原币含税金额' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '行原币不含税金额' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '行原币不含税金额' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '销售编码' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '销售编码' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '销售' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '销售' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '执行主管编码' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '执行主管编码' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '执行主管' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '执行主管' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '执行人' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '执行人' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '合同类型' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '合同类型' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '合同状态' 是否在Excel中存在...
+2025-07-07 12:34:58,139 - excel_processor - ERROR - 列 '合同状态' 在Excel中不存在
+2025-07-07 12:34:58,139 - excel_processor - INFO - 检查列 '产品编码' 是否在Excel中存在...
+2025-07-07 12:34:58,140 - excel_processor - ERROR - 列 '产品编码' 在Excel中不存在
+2025-07-07 12:34:58,140 - excel_processor - INFO - 检查列 '二级产品线' 是否在Excel中存在...
+2025-07-07 12:34:58,140 - excel_processor - ERROR - 列 '二级产品线' 在Excel中不存在
+2025-07-07 12:34:58,140 - excel_processor - INFO - 检查列 '产品分类编码' 是否在Excel中存在...
+2025-07-07 12:34:58,140 - excel_processor - ERROR - 列 '产品分类编码' 在Excel中不存在
+2025-07-07 12:34:58,140 - excel_processor - INFO - 检查列 '一级产品线' 是否在Excel中存在...
+2025-07-07 12:34:58,140 - excel_processor - ERROR - 列 '一级产品线' 在Excel中不存在
+2025-07-07 12:34:58,140 - excel_processor - INFO - 检查列 '财务收入类型' 是否在Excel中存在...
+2025-07-07 12:34:58,140 - excel_processor - ERROR - 列 '财务收入类型' 在Excel中不存在
+2025-07-07 12:34:58,140 - excel_processor - INFO - 检查列 '业务收入类型' 是否在Excel中存在...
+2025-07-07 12:34:58,140 - excel_processor - ERROR - 列 '业务收入类型' 在Excel中不存在
+2025-07-07 12:34:58,140 - excel_processor - INFO - 检查列 '收入行开始日期' 是否在Excel中存在...
+2025-07-07 12:34:58,140 - excel_processor - ERROR - 列 '收入行开始日期' 在Excel中不存在
+2025-07-07 12:34:58,140 - excel_processor - INFO - 检查列 '收入行结束日期' 是否在Excel中存在...
+2025-07-07 12:34:58,140 - excel_processor - ERROR - 列 '收入行结束日期' 在Excel中不存在
+2025-07-07 12:34:58,140 - excel_processor - INFO - 检查列 '收入确认类型.1' 是否在Excel中存在...
+2025-07-07 12:34:58,140 - excel_processor - ERROR - 列 '收入确认类型.1' 在Excel中不存在
+2025-07-07 12:34:58,140 - excel_processor - INFO - 检查列 '税率' 是否在Excel中存在...
+2025-07-07 12:34:58,140 - excel_processor - ERROR - 列 '税率' 在Excel中不存在
+2025-07-07 12:34:58,140 - excel_processor - INFO - 检查列 '行状态' 是否在Excel中存在...
+2025-07-07 12:34:58,140 - excel_processor - ERROR - 列 '行状态' 在Excel中不存在
+2025-07-07 12:34:58,140 - excel_processor - INFO - 检查列 '乙方编码' 是否在Excel中存在...
+2025-07-07 12:34:58,141 - excel_processor - ERROR - 列 '乙方编码' 在Excel中不存在
+2025-07-07 12:34:58,141 - excel_processor - INFO - 检查列 '乙方' 是否在Excel中存在...
+2025-07-07 12:34:58,141 - excel_processor - ERROR - 列 '乙方' 在Excel中不存在
+2025-07-07 12:34:58,141 - excel_processor - INFO - 检查列 '客户订单系统编码' 是否在Excel中存在...
+2025-07-07 12:34:58,141 - excel_processor - ERROR - 列 '客户订单系统编码' 在Excel中不存在
+2025-07-07 12:34:58,141 - excel_processor - INFO - 检查列 '合同客户类型' 是否在Excel中存在...
+2025-07-07 12:34:58,142 - excel_processor - ERROR - 列 '合同客户类型' 在Excel中不存在
+2025-07-07 12:34:58,142 - excel_processor - INFO - 检查列 '合同广告主' 是否在Excel中存在...
+2025-07-07 12:34:58,142 - excel_processor - ERROR - 列 '合同广告主' 在Excel中不存在
+2025-07-07 12:34:58,142 - excel_processor - INFO - 检查列 '合同开始日期' 是否在Excel中存在...
+2025-07-07 12:34:58,142 - excel_processor - ERROR - 列 '合同开始日期' 在Excel中不存在
+2025-07-07 12:34:58,142 - excel_processor - INFO - 检查列 '合同结束日期' 是否在Excel中存在...
+2025-07-07 12:34:58,142 - excel_processor - ERROR - 列 '合同结束日期' 在Excel中不存在
+2025-07-07 12:34:58,142 - excel_processor - INFO - 检查列 '税额' 是否在Excel中存在...
+2025-07-07 12:34:58,142 - excel_processor - ERROR - 列 '税额' 在Excel中不存在
+2025-07-07 12:34:58,142 - excel_processor - INFO - 检查列 '合同归档日期' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '合同归档日期' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '人民币金额（含税）' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '人民币金额（含税）' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '原币金额（不含税）' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '原币金额（不含税）' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '原币金额（不含税）.1' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '原币金额（不含税）.1' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '部门' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '部门' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '所属集团' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '所属集团' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '创建日期' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '创建日期' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '广告主行业' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '广告主行业' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '账期类型' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '账期类型' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '账期' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '账期' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '其他账期' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '其他账期' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '创建人' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '创建人' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '合同签订日期' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '合同签订日期' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '合同作废日期' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '合同作废日期' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '更新时间' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '更新时间' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '原币币种' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '原币币种' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '商机编号' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '商机编号' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '商机名称' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '商机名称' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '商机金额' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '商机金额' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '其他销售编码' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '其他销售编码' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '其他销售' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '其他销售' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '收入原币含税金额' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '收入原币含税金额' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '收入原币不含税金额' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '收入原币不含税金额' 在Excel中不存在
+2025-07-07 12:34:58,143 - excel_processor - INFO - 检查列 '收入本币含税金额' 是否在Excel中存在...
+2025-07-07 12:34:58,143 - excel_processor - ERROR - 列 '收入本币含税金额' 在Excel中不存在
+2025-07-07 12:34:58,144 - excel_processor - INFO - 检查列 '收入本币不含税金额' 是否在Excel中存在...
+2025-07-07 12:34:58,144 - excel_processor - ERROR - 列 '收入本币不含税金额' 在Excel中不存在
+2025-07-07 12:34:58,144 - excel_processor - INFO - 检查列 '确认金额' 是否在Excel中存在...
+2025-07-07 12:34:58,144 - excel_processor - ERROR - 列 '确认金额' 在Excel中不存在
+2025-07-07 12:34:58,144 - excel_processor - INFO - 检查列 '未确认金额' 是否在Excel中存在...
+2025-07-07 12:34:58,144 - excel_processor - ERROR - 列 '未确认金额' 在Excel中不存在
+2025-07-07 12:34:58,144 - excel_processor - INFO - 检查列 '单价' 是否在Excel中存在...
+2025-07-07 12:34:58,144 - excel_processor - ERROR - 列 '单价' 在Excel中不存在
+2025-07-07 12:34:58,144 - excel_processor - INFO - 检查列 '数量' 是否在Excel中存在...
+2025-07-07 12:34:58,144 - excel_processor - ERROR - 列 '数量' 在Excel中不存在
+2025-07-07 12:34:58,144 - excel_processor - INFO - 检查列 '验收金额' 是否在Excel中存在...
+2025-07-07 12:34:58,144 - excel_processor - ERROR - 列 '验收金额' 在Excel中不存在
+2025-07-07 12:34:58,144 - excel_processor - INFO - 检查列 '验收月份' 是否在Excel中存在...
+2025-07-07 12:34:58,144 - excel_processor - ERROR - 列 '验收月份' 在Excel中不存在
+2025-07-07 12:34:58,144 - excel_processor - ERROR - 以下列在Excel中不存在: ['合同分类', '合同编号', '合同行编码', '框架编号', '合同名称', '甲方编码', '项目编号', '甲方', '收入确认类型', '申请编号', '交付物类型', '交付物/客户确认单', '交付物描述', '提交时间', '提交人', '财务反馈问题分类', '财务反馈', '审核人', '审核时间', '收入确认日期', 'GL日期', '汇率日期', '关键事件法描述', '对齐', '本次确认金额', '已确认收入含税金额', '已确认收入不含税金额', '未确认收入含税金额', '未确认收入不含税金额', '行原币含税金额', '行原币不含税金额', '销售编码', '销售', '执行主管编码', '执行主管', '执行人', '合同类型', '合同状态', '产品编码', '二级产品线', '产品分类编码', '一级产品线', '财务收入类型', '业务收入类型', '收入行开始日期', '收入行结束日期', '收入确认类型.1', '税率', '行状态', '乙方编码', '乙方', '客户订单系统编码', '合同客户类型', '合同广告主', '合同开始日期', '合同结束日期', '税额', '合同归档日期', '人民币金额（含税）', '原币金额（不含税）', '原币金额（不含税）.1', '部门', '所属集团', '创建日期', '广告主行业', '账期类型', '账期', '其他账期', '创建人', '合同签订日期', '合同作废日期', '更新时间', '原币币种', '商机编号', '商机名称', '商机金额', '其他销售编码', '其他销售', '收入原币含税金额', '收入原币不含税金额', '收入本币含税金额', '收入本币不含税金额', '确认金额', '未确认金额', '单价', '数量', '验收金额', '验收月份']
+2025-07-07 12:34:58,144 - excel_processor - ERROR - Excel中所有列名: ['id', '财务审核状态', '(多项)', 'Unnamed: 2', 'Unnamed: 3']
+2025-07-07 12:34:58,144 - excel_processor - ERROR - 请检查Excel文件格式或数据库表结构是否匹配
+2025-07-07 12:34:58,144 - excel_to_mysql - ERROR - 处理Excel文件失败
+2025-07-07 12:34:58,144 - database - INFO - 数据库连接已断开
+2025-07-07 12:37:37,663 - database - INFO - 数据库连接成功
+2025-07-07 12:37:37,705 - database - INFO - 表 'mq_income_1714500000000' 当前最大id为: 143
+2025-07-07 12:37:47,777 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmpacrc2y4z.xlsx
+2025-07-07 12:37:47,778 - excel_processor - INFO - Excel文件中的列名: ['合同分类', '合同编号', '合同行编码', '框架编号', '合同名称', '甲方编码', '项目编号', '甲方', '财务审核状态', '收入确认类型', '申请编号', '交付物类型', '交付物/客户确认单', '交付物描述', '提交时间', '提交人', '财务反馈问题分类', '财务反馈', '审核人', '审核时间', '收入确认日期', 'GL日期', '汇率日期', '关键事件法描述', '对齐', '本次确认金额', '已确认收入含税金额', '已确认收入不含税金额', '未确认收入含税金额', '未确认收入不含税金额', '行原币含税金额', '行原币不含税金额', '销售编码', '销售', '执行主管编码', '执行主管', '执行人', '合同类型', '合同状态', '产品编码', '二级产品线', '产品分类编码', '一级产品线', '财务收入类型', '业务收入类型', '收入行开始日期', '收入行结束日期', '收入确认类型.1', '税率', '行状态', '乙方编码', '乙方', '客户订单系统编码', '合同客户类型', '合同广告主', '合同开始日期', '合同结束日期', '税额', '合同归档日期', '人民币金额（含税）', '原币金额（不含税）', '原币金额（不含税）.1', '部门', '所属集团', '创建日期', '广告主行业', '账期类型', '账期', '其他账期', '创建人', '合同签订日期', '合同作废日期', '更新时间', '原币币种', '商机编号', '商机名称', '商机金额', '其他销售编码', '其他销售', '收入原币含税金额', '收入原币不含税金额', '收入本币含税金额', '收入本币不含税金额', '确认金额', '未确认金额', '单价', '数量', '验收金额', '验收月份']
+2025-07-07 12:37:47,778 - excel_processor - INFO - Excel文件中的数据行数: 24680
+2025-07-07 12:37:47,778 - excel_processor - INFO - === Excel列名详细信息 ===
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 1: '合同分类' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\x88\x86\xe7\xb1\xbb')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 2: '合同编号' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe7\xbc\x96\xe5\x8f\xb7')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 3: '合同行编码' (类型: <class 'str'>, 长度: 5, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe8\xa1\x8c\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 4: '框架编号' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\xa1\x86\xe6\x9e\xb6\xe7\xbc\x96\xe5\x8f\xb7')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 5: '合同名称' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\x90\x8d\xe7\xa7\xb0')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 6: '甲方编码' (类型: <class 'str'>, 长度: 4, 编码: b'\xe7\x94\xb2\xe6\x96\xb9\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 7: '项目编号' (类型: <class 'str'>, 长度: 4, 编码: b'\xe9\xa1\xb9\xe7\x9b\xae\xe7\xbc\x96\xe5\x8f\xb7')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 8: '甲方' (类型: <class 'str'>, 长度: 2, 编码: b'\xe7\x94\xb2\xe6\x96\xb9')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 9: '财务审核状态' (类型: <class 'str'>, 长度: 6, 编码: b'\xe8\xb4\xa2\xe5\x8a\xa1\xe5\xae\xa1\xe6\xa0\xb8\xe7\x8a\xb6\xe6\x80\x81')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 10: '收入确认类型' (类型: <class 'str'>, 长度: 6, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe7\xa1\xae\xe8\xae\xa4\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 11: '申请编号' (类型: <class 'str'>, 长度: 4, 编码: b'\xe7\x94\xb3\xe8\xaf\xb7\xe7\xbc\x96\xe5\x8f\xb7')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 12: '交付物类型' (类型: <class 'str'>, 长度: 5, 编码: b'\xe4\xba\xa4\xe4\xbb\x98\xe7\x89\xa9\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 13: '交付物/客户确认单' (类型: <class 'str'>, 长度: 9, 编码: b'\xe4\xba\xa4\xe4\xbb\x98\xe7\x89\xa9/\xe5\xae\xa2\xe6\x88\xb7\xe7\xa1\xae\xe8\xae\xa4\xe5\x8d\x95')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 14: '交付物描述' (类型: <class 'str'>, 长度: 5, 编码: b'\xe4\xba\xa4\xe4\xbb\x98\xe7\x89\xa9\xe6\x8f\x8f\xe8\xbf\xb0')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 15: '提交时间' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\x8f\x90\xe4\xba\xa4\xe6\x97\xb6\xe9\x97\xb4')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 16: '提交人' (类型: <class 'str'>, 长度: 3, 编码: b'\xe6\x8f\x90\xe4\xba\xa4\xe4\xba\xba')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 17: '财务反馈问题分类' (类型: <class 'str'>, 长度: 8, 编码: b'\xe8\xb4\xa2\xe5\x8a\xa1\xe5\x8f\x8d\xe9\xa6\x88\xe9\x97\xae\xe9\xa2\x98\xe5\x88\x86\xe7\xb1\xbb')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 18: '财务反馈' (类型: <class 'str'>, 长度: 4, 编码: b'\xe8\xb4\xa2\xe5\x8a\xa1\xe5\x8f\x8d\xe9\xa6\x88')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 19: '审核人' (类型: <class 'str'>, 长度: 3, 编码: b'\xe5\xae\xa1\xe6\xa0\xb8\xe4\xba\xba')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 20: '审核时间' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\xae\xa1\xe6\xa0\xb8\xe6\x97\xb6\xe9\x97\xb4')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 21: '收入确认日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe7\xa1\xae\xe8\xae\xa4\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 22: 'GL日期' (类型: <class 'str'>, 长度: 4, 编码: b'GL\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 23: '汇率日期' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\xb1\x87\xe7\x8e\x87\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 24: '关键事件法描述' (类型: <class 'str'>, 长度: 7, 编码: b'\xe5\x85\xb3\xe9\x94\xae\xe4\xba\x8b\xe4\xbb\xb6\xe6\xb3\x95\xe6\x8f\x8f\xe8\xbf\xb0')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 25: '对齐' (类型: <class 'str'>, 长度: 2, 编码: b'\xe5\xaf\xb9\xe9\xbd\x90')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 26: '本次确认金额' (类型: <class 'str'>, 长度: 6, 编码: b'\xe6\x9c\xac\xe6\xac\xa1\xe7\xa1\xae\xe8\xae\xa4\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 27: '已确认收入含税金额' (类型: <class 'str'>, 长度: 9, 编码: b'\xe5\xb7\xb2\xe7\xa1\xae\xe8\xae\xa4\xe6\x94\xb6\xe5\x85\xa5\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 28: '已确认收入不含税金额' (类型: <class 'str'>, 长度: 10, 编码: b'\xe5\xb7\xb2\xe7\xa1\xae\xe8\xae\xa4\xe6\x94\xb6\xe5\x85\xa5\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 29: '未确认收入含税金额' (类型: <class 'str'>, 长度: 9, 编码: b'\xe6\x9c\xaa\xe7\xa1\xae\xe8\xae\xa4\xe6\x94\xb6\xe5\x85\xa5\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 30: '未确认收入不含税金额' (类型: <class 'str'>, 长度: 10, 编码: b'\xe6\x9c\xaa\xe7\xa1\xae\xe8\xae\xa4\xe6\x94\xb6\xe5\x85\xa5\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 31: '行原币含税金额' (类型: <class 'str'>, 长度: 7, 编码: b'\xe8\xa1\x8c\xe5\x8e\x9f\xe5\xb8\x81\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 32: '行原币不含税金额' (类型: <class 'str'>, 长度: 8, 编码: b'\xe8\xa1\x8c\xe5\x8e\x9f\xe5\xb8\x81\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 33: '销售编码' (类型: <class 'str'>, 长度: 4, 编码: b'\xe9\x94\x80\xe5\x94\xae\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:37:47,778 - excel_processor - INFO - 列 34: '销售' (类型: <class 'str'>, 长度: 2, 编码: b'\xe9\x94\x80\xe5\x94\xae')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 35: '执行主管编码' (类型: <class 'str'>, 长度: 6, 编码: b'\xe6\x89\xa7\xe8\xa1\x8c\xe4\xb8\xbb\xe7\xae\xa1\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 36: '执行主管' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\x89\xa7\xe8\xa1\x8c\xe4\xb8\xbb\xe7\xae\xa1')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 37: '执行人' (类型: <class 'str'>, 长度: 3, 编码: b'\xe6\x89\xa7\xe8\xa1\x8c\xe4\xba\xba')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 38: '合同类型' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 39: '合同状态' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe7\x8a\xb6\xe6\x80\x81')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 40: '产品编码' (类型: <class 'str'>, 长度: 4, 编码: b'\xe4\xba\xa7\xe5\x93\x81\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 41: '二级产品线' (类型: <class 'str'>, 长度: 5, 编码: b'\xe4\xba\x8c\xe7\xba\xa7\xe4\xba\xa7\xe5\x93\x81\xe7\xba\xbf')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 42: '产品分类编码' (类型: <class 'str'>, 长度: 6, 编码: b'\xe4\xba\xa7\xe5\x93\x81\xe5\x88\x86\xe7\xb1\xbb\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 43: '一级产品线' (类型: <class 'str'>, 长度: 5, 编码: b'\xe4\xb8\x80\xe7\xba\xa7\xe4\xba\xa7\xe5\x93\x81\xe7\xba\xbf')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 44: '财务收入类型' (类型: <class 'str'>, 长度: 6, 编码: b'\xe8\xb4\xa2\xe5\x8a\xa1\xe6\x94\xb6\xe5\x85\xa5\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 45: '业务收入类型' (类型: <class 'str'>, 长度: 6, 编码: b'\xe4\xb8\x9a\xe5\x8a\xa1\xe6\x94\xb6\xe5\x85\xa5\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 46: '收入行开始日期' (类型: <class 'str'>, 长度: 7, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe8\xa1\x8c\xe5\xbc\x80\xe5\xa7\x8b\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 47: '收入行结束日期' (类型: <class 'str'>, 长度: 7, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe8\xa1\x8c\xe7\xbb\x93\xe6\x9d\x9f\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 48: '收入确认类型.1' (类型: <class 'str'>, 长度: 8, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe7\xa1\xae\xe8\xae\xa4\xe7\xb1\xbb\xe5\x9e\x8b.1')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 49: '税率' (类型: <class 'str'>, 长度: 2, 编码: b'\xe7\xa8\x8e\xe7\x8e\x87')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 50: '行状态' (类型: <class 'str'>, 长度: 3, 编码: b'\xe8\xa1\x8c\xe7\x8a\xb6\xe6\x80\x81')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 51: '乙方编码' (类型: <class 'str'>, 长度: 4, 编码: b'\xe4\xb9\x99\xe6\x96\xb9\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 52: '乙方' (类型: <class 'str'>, 长度: 2, 编码: b'\xe4\xb9\x99\xe6\x96\xb9')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 53: '客户订单系统编码' (类型: <class 'str'>, 长度: 8, 编码: b'\xe5\xae\xa2\xe6\x88\xb7\xe8\xae\xa2\xe5\x8d\x95\xe7\xb3\xbb\xe7\xbb\x9f\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 54: '合同客户类型' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\xae\xa2\xe6\x88\xb7\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 55: '合同广告主' (类型: <class 'str'>, 长度: 5, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\xb9\xbf\xe5\x91\x8a\xe4\xb8\xbb')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 56: '合同开始日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\xbc\x80\xe5\xa7\x8b\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 57: '合同结束日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe7\xbb\x93\xe6\x9d\x9f\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 58: '税额' (类型: <class 'str'>, 长度: 2, 编码: b'\xe7\xa8\x8e\xe9\xa2\x9d')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 59: '合同归档日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\xbd\x92\xe6\xa1\xa3\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 60: '人民币金额（含税）' (类型: <class 'str'>, 长度: 9, 编码: b'\xe4\xba\xba\xe6\xb0\x91\xe5\xb8\x81\xe9\x87\x91\xe9\xa2\x9d\xef\xbc\x88\xe5\x90\xab\xe7\xa8\x8e\xef\xbc\x89')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 61: '原币金额（不含税）' (类型: <class 'str'>, 长度: 9, 编码: b'\xe5\x8e\x9f\xe5\xb8\x81\xe9\x87\x91\xe9\xa2\x9d\xef\xbc\x88\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xef\xbc\x89')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 62: '原币金额（不含税）.1' (类型: <class 'str'>, 长度: 11, 编码: b'\xe5\x8e\x9f\xe5\xb8\x81\xe9\x87\x91\xe9\xa2\x9d\xef\xbc\x88\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xef\xbc\x89.1')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 63: '部门' (类型: <class 'str'>, 长度: 2, 编码: b'\xe9\x83\xa8\xe9\x97\xa8')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 64: '所属集团' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\x89\x80\xe5\xb1\x9e\xe9\x9b\x86\xe5\x9b\xa2')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 65: '创建日期' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x88\x9b\xe5\xbb\xba\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 66: '广告主行业' (类型: <class 'str'>, 长度: 5, 编码: b'\xe5\xb9\xbf\xe5\x91\x8a\xe4\xb8\xbb\xe8\xa1\x8c\xe4\xb8\x9a')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 67: '账期类型' (类型: <class 'str'>, 长度: 4, 编码: b'\xe8\xb4\xa6\xe6\x9c\x9f\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 68: '账期' (类型: <class 'str'>, 长度: 2, 编码: b'\xe8\xb4\xa6\xe6\x9c\x9f')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 69: '其他账期' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x85\xb6\xe4\xbb\x96\xe8\xb4\xa6\xe6\x9c\x9f')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 70: '创建人' (类型: <class 'str'>, 长度: 3, 编码: b'\xe5\x88\x9b\xe5\xbb\xba\xe4\xba\xba')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 71: '合同签订日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe7\xad\xbe\xe8\xae\xa2\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 72: '合同作废日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe4\xbd\x9c\xe5\xba\x9f\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 73: '更新时间' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\x9b\xb4\xe6\x96\xb0\xe6\x97\xb6\xe9\x97\xb4')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 74: '原币币种' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x8e\x9f\xe5\xb8\x81\xe5\xb8\x81\xe7\xa7\x8d')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 75: '商机编号' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x95\x86\xe6\x9c\xba\xe7\xbc\x96\xe5\x8f\xb7')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 76: '商机名称' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x95\x86\xe6\x9c\xba\xe5\x90\x8d\xe7\xa7\xb0')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 77: '商机金额' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x95\x86\xe6\x9c\xba\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,779 - excel_processor - INFO - 列 78: '其他销售编码' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x85\xb6\xe4\xbb\x96\xe9\x94\x80\xe5\x94\xae\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:37:47,780 - excel_processor - INFO - 列 79: '其他销售' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x85\xb6\xe4\xbb\x96\xe9\x94\x80\xe5\x94\xae')
+2025-07-07 12:37:47,780 - excel_processor - INFO - 列 80: '收入原币含税金额' (类型: <class 'str'>, 长度: 8, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe5\x8e\x9f\xe5\xb8\x81\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,780 - excel_processor - INFO - 列 81: '收入原币不含税金额' (类型: <class 'str'>, 长度: 9, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe5\x8e\x9f\xe5\xb8\x81\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,780 - excel_processor - INFO - 列 82: '收入本币含税金额' (类型: <class 'str'>, 长度: 8, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe6\x9c\xac\xe5\xb8\x81\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,780 - excel_processor - INFO - 列 83: '收入本币不含税金额' (类型: <class 'str'>, 长度: 9, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe6\x9c\xac\xe5\xb8\x81\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,780 - excel_processor - INFO - 列 84: '确认金额' (类型: <class 'str'>, 长度: 4, 编码: b'\xe7\xa1\xae\xe8\xae\xa4\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,780 - excel_processor - INFO - 列 85: '未确认金额' (类型: <class 'str'>, 长度: 5, 编码: b'\xe6\x9c\xaa\xe7\xa1\xae\xe8\xae\xa4\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,780 - excel_processor - INFO - 列 86: '单价' (类型: <class 'str'>, 长度: 2, 编码: b'\xe5\x8d\x95\xe4\xbb\xb7')
+2025-07-07 12:37:47,780 - excel_processor - INFO - 列 87: '数量' (类型: <class 'str'>, 长度: 2, 编码: b'\xe6\x95\xb0\xe9\x87\x8f')
+2025-07-07 12:37:47,780 - excel_processor - INFO - 列 88: '验收金额' (类型: <class 'str'>, 长度: 4, 编码: b'\xe9\xaa\x8c\xe6\x94\xb6\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:37:47,780 - excel_processor - INFO - 列 89: '验收月份' (类型: <class 'str'>, 长度: 4, 编码: b'\xe9\xaa\x8c\xe6\x94\xb6\xe6\x9c\x88\xe4\xbb\xbd')
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为144
+2025-07-07 12:37:47,791 - excel_processor - INFO - === 开始验证数据类型 ===
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel中的列名: ['id', '合同分类', '合同编号', '合同行编码', '框架编号', '合同名称', '甲方编码', '项目编号', '甲方', '财务审核状态', '收入确认类型', '申请编号', '交付物类型', '交付物/客户确认单', '交付物描述', '提交时间', '提交人', '财务反馈问题分类', '财务反馈', '审核人', '审核时间', '收入确认日期', 'GL日期', '汇率日期', '关键事件法描述', '对齐', '本次确认金额', '已确认收入含税金额', '已确认收入不含税金额', '未确认收入含税金额', '未确认收入不含税金额', '行原币含税金额', '行原币不含税金额', '销售编码', '销售', '执行主管编码', '执行主管', '执行人', '合同类型', '合同状态', '产品编码', '二级产品线', '产品分类编码', '一级产品线', '财务收入类型', '业务收入类型', '收入行开始日期', '收入行结束日期', '收入确认类型.1', '税率', '行状态', '乙方编码', '乙方', '客户订单系统编码', '合同客户类型', '合同广告主', '合同开始日期', '合同结束日期', '税额', '合同归档日期', '人民币金额（含税）', '原币金额（不含税）', '原币金额（不含税）.1', '部门', '所属集团', '创建日期', '广告主行业', '账期类型', '账期', '其他账期', '创建人', '合同签订日期', '合同作废日期', '更新时间', '原币币种', '商机编号', '商机名称', '商机金额', '其他销售编码', '其他销售', '收入原币含税金额', '收入原币不含税金额', '收入本币含税金额', '收入本币不含税金额', '确认金额', '未确认金额', '单价', '数量', '验收金额', '验收月份']
+2025-07-07 12:37:47,791 - excel_processor - INFO - 数据库表结构中的列名: ['id', '合同分类', '合同编号', '合同行编码', '框架编号', '合同名称', '甲方编码', '项目编号', '甲方', '财务审核状态', '收入确认类型', '申请编号', '交付物类型', '交付物/客户确认单', '交付物描述', '提交时间', '提交人', '财务反馈问题分类', '财务反馈', '审核人', '审核时间', '收入确认日期', 'GL日期', '汇率日期', '关键事件法描述', '对齐', '本次确认金额', '已确认收入含税金额', '已确认收入不含税金额', '未确认收入含税金额', '未确认收入不含税金额', '行原币含税金额', '行原币不含税金额', '销售编码', '销售', '执行主管编码', '执行主管', '执行人', '合同类型', '合同状态', '产品编码', '二级产品线', '产品分类编码', '一级产品线', '财务收入类型', '业务收入类型', '收入行开始日期', '收入行结束日期', '收入确认类型.1', '税率', '行状态', '乙方编码', '乙方', '客户订单系统编码', '合同客户类型', '合同广告主', '合同开始日期', '合同结束日期', '税额', '合同归档日期', '人民币金额（含税）', '原币金额（不含税）', '原币金额（不含税）.1', '部门', '所属集团', '创建日期', '广告主行业', '账期类型', '账期', '其他账期', '创建人', '合同签订日期', '合同作废日期', '更新时间', '原币币种', '商机编号', '商机名称', '商机金额', '其他销售编码', '其他销售', '收入原币含税金额', '收入原币不含税金额', '收入本币含税金额', '收入本币不含税金额', '确认金额', '未确认金额', '单价', '数量', '验收金额', '验收月份']
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: 'id' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '合同分类' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '合同编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '合同行编码' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '框架编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '合同名称' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '甲方编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '项目编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '甲方' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '财务审核状态' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '收入确认类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '申请编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '交付物类型' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,791 - excel_processor - INFO - Excel列名: '交付物/客户确认单' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '交付物描述' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '提交时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '提交人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '财务反馈问题分类' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '财务反馈' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '审核人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '审核时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '收入确认日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: 'GL日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '汇率日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '关键事件法描述' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '对齐' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '本次确认金额' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '已确认收入含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '已确认收入不含税金额' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '未确认收入含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '未确认收入不含税金额' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '行原币含税金额' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '行原币不含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '销售编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '销售' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '执行主管编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '执行主管' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '执行人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '合同类型' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '合同状态' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '产品编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '二级产品线' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '产品分类编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '一级产品线' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '财务收入类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '业务收入类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '收入行开始日期' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '收入行结束日期' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '收入确认类型.1' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '税率' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '行状态' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '乙方编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '乙方' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '客户订单系统编码' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '合同客户类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '合同广告主' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '合同开始日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '合同结束日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '税额' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '合同归档日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '人民币金额（含税）' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '原币金额（不含税）' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '原币金额（不含税）.1' (类型: <class 'str'>, 长度: 11)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '部门' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,792 - excel_processor - INFO - Excel列名: '所属集团' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '创建日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '广告主行业' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '账期类型' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '账期' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '其他账期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '创建人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '合同签订日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '合同作废日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '更新时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '原币币种' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '商机编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '商机名称' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '商机金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '其他销售编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '其他销售' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '收入原币含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '收入原币不含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '收入本币含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '收入本币不含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '确认金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '未确认金额' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '单价' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '数量' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '验收金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - Excel列名: '验收月份' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: 'id' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '合同分类' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '合同编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '合同行编码' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '框架编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '合同名称' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '甲方编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '项目编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '甲方' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '财务审核状态' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '收入确认类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '申请编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '交付物类型' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '交付物/客户确认单' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '交付物描述' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '提交时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '提交人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '财务反馈问题分类' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '财务反馈' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '审核人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '审核时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '收入确认日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: 'GL日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '汇率日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '关键事件法描述' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:37:47,793 - excel_processor - INFO - 数据库列名: '对齐' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '本次确认金额' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '已确认收入含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '已确认收入不含税金额' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '未确认收入含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '未确认收入不含税金额' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '行原币含税金额' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '行原币不含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '销售编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '销售' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '执行主管编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '执行主管' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '执行人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '合同类型' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '合同状态' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '产品编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '二级产品线' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '产品分类编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '一级产品线' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '财务收入类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '业务收入类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '收入行开始日期' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '收入行结束日期' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '收入确认类型.1' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '税率' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '行状态' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '乙方编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '乙方' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '客户订单系统编码' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '合同客户类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '合同广告主' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '合同开始日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '合同结束日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '税额' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '合同归档日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '人民币金额（含税）' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '原币金额（不含税）' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '原币金额（不含税）.1' (类型: <class 'str'>, 长度: 11)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '部门' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '所属集团' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '创建日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '广告主行业' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '账期类型' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '账期' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '其他账期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '创建人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '合同签订日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '合同作废日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '更新时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '原币币种' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '商机编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '商机名称' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,794 - excel_processor - INFO - 数据库列名: '商机金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '其他销售编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '其他销售' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '收入原币含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '收入原币不含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '收入本币含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '收入本币不含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '确认金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '未确认金额' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '单价' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '数量' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '验收金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 数据库列名: '验收月份' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 'id' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 'id' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '合同分类' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '合同分类' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '合同编号' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '合同编号' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '合同行编码' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '合同行编码' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '框架编号' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '框架编号' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '合同名称' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '合同名称' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '甲方编码' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '甲方编码' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '项目编号' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '项目编号' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '甲方' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '甲方' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '财务审核状态' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '财务审核状态' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '收入确认类型' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '收入确认类型' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '申请编号' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '申请编号' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '交付物类型' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '交付物类型' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '交付物/客户确认单' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '交付物/客户确认单' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '交付物描述' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '交付物描述' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '提交时间' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '提交时间' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '提交人' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '提交人' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '财务反馈问题分类' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '财务反馈问题分类' 在Excel中存在
+2025-07-07 12:37:47,795 - excel_processor - INFO - 检查列 '财务反馈' 是否在Excel中存在...
+2025-07-07 12:37:47,795 - excel_processor - INFO - ✅ 列 '财务反馈' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '审核人' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '审核人' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '审核时间' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '审核时间' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '收入确认日期' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '收入确认日期' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 'GL日期' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 'GL日期' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '汇率日期' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '汇率日期' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '关键事件法描述' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '关键事件法描述' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '对齐' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '对齐' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '本次确认金额' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '本次确认金额' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '已确认收入含税金额' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '已确认收入含税金额' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '已确认收入不含税金额' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '已确认收入不含税金额' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '未确认收入含税金额' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '未确认收入含税金额' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '未确认收入不含税金额' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '未确认收入不含税金额' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '行原币含税金额' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '行原币含税金额' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '行原币不含税金额' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '行原币不含税金额' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '销售编码' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '销售编码' 在Excel中存在
+2025-07-07 12:37:47,796 - excel_processor - INFO - 检查列 '销售' 是否在Excel中存在...
+2025-07-07 12:37:47,796 - excel_processor - INFO - ✅ 列 '销售' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '执行主管编码' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '执行主管编码' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '执行主管' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '执行主管' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '执行人' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '执行人' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '合同类型' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '合同类型' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '合同状态' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '合同状态' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '产品编码' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '产品编码' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '二级产品线' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '二级产品线' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '产品分类编码' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '产品分类编码' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '一级产品线' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '一级产品线' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '财务收入类型' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '财务收入类型' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '业务收入类型' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '业务收入类型' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '收入行开始日期' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '收入行开始日期' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '收入行结束日期' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '收入行结束日期' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '收入确认类型.1' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '收入确认类型.1' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '税率' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '税率' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '行状态' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '行状态' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '乙方编码' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '乙方编码' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '乙方' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '乙方' 在Excel中存在
+2025-07-07 12:37:47,797 - excel_processor - INFO - 检查列 '客户订单系统编码' 是否在Excel中存在...
+2025-07-07 12:37:47,797 - excel_processor - INFO - ✅ 列 '客户订单系统编码' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '合同客户类型' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '合同客户类型' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '合同广告主' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '合同广告主' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '合同开始日期' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '合同开始日期' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '合同结束日期' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '合同结束日期' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '税额' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '税额' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '合同归档日期' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '合同归档日期' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '人民币金额（含税）' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '人民币金额（含税）' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '原币金额（不含税）' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '原币金额（不含税）' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '原币金额（不含税）.1' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '原币金额（不含税）.1' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '部门' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '部门' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '所属集团' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '所属集团' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '创建日期' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '创建日期' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '广告主行业' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '广告主行业' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '账期类型' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '账期类型' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '账期' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '账期' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '其他账期' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '其他账期' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '创建人' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '创建人' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '合同签订日期' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '合同签订日期' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '合同作废日期' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '合同作废日期' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '更新时间' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '更新时间' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '原币币种' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '原币币种' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '商机编号' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '商机编号' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '商机名称' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '商机名称' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '商机金额' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '商机金额' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '其他销售编码' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '其他销售编码' 在Excel中存在
+2025-07-07 12:37:47,798 - excel_processor - INFO - 检查列 '其他销售' 是否在Excel中存在...
+2025-07-07 12:37:47,798 - excel_processor - INFO - ✅ 列 '其他销售' 在Excel中存在
+2025-07-07 12:37:47,799 - excel_processor - INFO - 检查列 '收入原币含税金额' 是否在Excel中存在...
+2025-07-07 12:37:47,799 - excel_processor - INFO - ✅ 列 '收入原币含税金额' 在Excel中存在
+2025-07-07 12:37:47,799 - excel_processor - INFO - 检查列 '收入原币不含税金额' 是否在Excel中存在...
+2025-07-07 12:37:47,799 - excel_processor - INFO - ✅ 列 '收入原币不含税金额' 在Excel中存在
+2025-07-07 12:37:47,799 - excel_processor - INFO - 检查列 '收入本币含税金额' 是否在Excel中存在...
+2025-07-07 12:37:47,799 - excel_processor - INFO - ✅ 列 '收入本币含税金额' 在Excel中存在
+2025-07-07 12:37:47,799 - excel_processor - INFO - 检查列 '收入本币不含税金额' 是否在Excel中存在...
+2025-07-07 12:37:47,799 - excel_processor - INFO - ✅ 列 '收入本币不含税金额' 在Excel中存在
+2025-07-07 12:37:47,799 - excel_processor - INFO - 检查列 '确认金额' 是否在Excel中存在...
+2025-07-07 12:37:47,799 - excel_processor - INFO - ✅ 列 '确认金额' 在Excel中存在
+2025-07-07 12:37:47,799 - excel_processor - INFO - 检查列 '未确认金额' 是否在Excel中存在...
+2025-07-07 12:37:47,799 - excel_processor - INFO - ✅ 列 '未确认金额' 在Excel中存在
+2025-07-07 12:37:47,799 - excel_processor - INFO - 检查列 '单价' 是否在Excel中存在...
+2025-07-07 12:37:47,799 - excel_processor - INFO - ✅ 列 '单价' 在Excel中存在
+2025-07-07 12:37:47,799 - excel_processor - INFO - 检查列 '数量' 是否在Excel中存在...
+2025-07-07 12:37:47,799 - excel_processor - INFO - ✅ 列 '数量' 在Excel中存在
+2025-07-07 12:37:47,799 - excel_processor - INFO - 检查列 '验收金额' 是否在Excel中存在...
+2025-07-07 12:37:47,799 - excel_processor - INFO - ✅ 列 '验收金额' 在Excel中存在
+2025-07-07 12:37:47,799 - excel_processor - INFO - 检查列 '验收月份' 是否在Excel中存在...
+2025-07-07 12:37:47,799 - excel_processor - INFO - ✅ 列 '验收月份' 在Excel中存在
+2025-07-07 12:37:47,799 - excel_processor - INFO - 数据类型验证通过
+2025-07-07 12:37:48,183 - excel_processor - INFO - 数据清理完成，共处理24680行数据
+2025-07-07 12:37:48,889 - excel_processor - INFO - 成功转换24680行数据为元组格式
+2025-07-07 12:37:52,369 - database - ERROR - 批量SQL执行失败: (1292, "Incorrect datetime value: '产品收入' for column '收入行开始日期' at row 473")
+2025-07-07 12:37:52,370 - excel_to_mysql - ERROR - 插入数据失败
+2025-07-07 12:37:52,370 - database - INFO - 数据库连接已断开
+2025-07-07 12:47:31,056 - database - INFO - 数据库连接成功
+2025-07-07 12:47:31,099 - database - INFO - 表 'mq_income_1700000000000' 当前最大id为: 0
+2025-07-07 12:47:40,725 - excel_processor - INFO - 成功读取Excel文件: /var/folders/89/n931hfxd2gl_1qnxtx3xbxy40000gn/T/tmpl41szr9o.xlsx
+2025-07-07 12:47:40,725 - excel_processor - INFO - Excel文件中的列名: ['合同分类', '合同编号', '合同行编码', '框架编号', '合同名称', '甲方编码', '项目编号', '甲方', '财务审核状态', '收入确认类型', '申请编号', '交付物类型', '交付物/客户确认单', '交付物描述', '提交时间', '提交人', '财务反馈问题分类', '财务反馈', '审核人', '审核时间', '收入确认日期', 'GL日期', '汇率日期', '关键事件法描述', '对齐', '本次确认金额', '已确认收入含税金额', '已确认收入不含税金额', '未确认收入含税金额', '未确认收入不含税金额', '行原币含税金额', '行原币不含税金额', '销售编码', '销售', '执行主管编码', '执行主管', '执行人', '合同类型', '合同状态', '产品编码', '二级产品线', '产品分类编码', '一级产品线', '财务收入类型', '业务收入类型', '收入行开始日期', '收入行结束日期', '收入确认类型.1', '税率', '行状态', '乙方编码', '乙方', '客户订单系统编码', '合同客户类型', '合同广告主', '合同开始日期', '合同结束日期', '税额', '合同归档日期', '人民币金额（含税）', '原币金额（不含税）', '原币金额（不含税）.1', '部门', '所属集团', '创建日期', '广告主行业', '账期类型', '账期', '其他账期', '创建人', '合同签订日期', '合同作废日期', '更新时间', '原币币种', '商机编号', '商机名称', '商机金额', '其他销售编码', '其他销售', '收入原币含税金额', '收入原币不含税金额', '收入本币含税金额', '收入本币不含税金额', '确认金额', '未确认金额', '单价', '数量', '验收金额', '验收月份']
+2025-07-07 12:47:40,726 - excel_processor - INFO - Excel文件中的数据行数: 24680
+2025-07-07 12:47:40,726 - excel_processor - INFO - === Excel列名详细信息 ===
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 1: '合同分类' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\x88\x86\xe7\xb1\xbb')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 2: '合同编号' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe7\xbc\x96\xe5\x8f\xb7')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 3: '合同行编码' (类型: <class 'str'>, 长度: 5, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe8\xa1\x8c\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 4: '框架编号' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\xa1\x86\xe6\x9e\xb6\xe7\xbc\x96\xe5\x8f\xb7')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 5: '合同名称' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\x90\x8d\xe7\xa7\xb0')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 6: '甲方编码' (类型: <class 'str'>, 长度: 4, 编码: b'\xe7\x94\xb2\xe6\x96\xb9\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 7: '项目编号' (类型: <class 'str'>, 长度: 4, 编码: b'\xe9\xa1\xb9\xe7\x9b\xae\xe7\xbc\x96\xe5\x8f\xb7')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 8: '甲方' (类型: <class 'str'>, 长度: 2, 编码: b'\xe7\x94\xb2\xe6\x96\xb9')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 9: '财务审核状态' (类型: <class 'str'>, 长度: 6, 编码: b'\xe8\xb4\xa2\xe5\x8a\xa1\xe5\xae\xa1\xe6\xa0\xb8\xe7\x8a\xb6\xe6\x80\x81')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 10: '收入确认类型' (类型: <class 'str'>, 长度: 6, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe7\xa1\xae\xe8\xae\xa4\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 11: '申请编号' (类型: <class 'str'>, 长度: 4, 编码: b'\xe7\x94\xb3\xe8\xaf\xb7\xe7\xbc\x96\xe5\x8f\xb7')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 12: '交付物类型' (类型: <class 'str'>, 长度: 5, 编码: b'\xe4\xba\xa4\xe4\xbb\x98\xe7\x89\xa9\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 13: '交付物/客户确认单' (类型: <class 'str'>, 长度: 9, 编码: b'\xe4\xba\xa4\xe4\xbb\x98\xe7\x89\xa9/\xe5\xae\xa2\xe6\x88\xb7\xe7\xa1\xae\xe8\xae\xa4\xe5\x8d\x95')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 14: '交付物描述' (类型: <class 'str'>, 长度: 5, 编码: b'\xe4\xba\xa4\xe4\xbb\x98\xe7\x89\xa9\xe6\x8f\x8f\xe8\xbf\xb0')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 15: '提交时间' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\x8f\x90\xe4\xba\xa4\xe6\x97\xb6\xe9\x97\xb4')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 16: '提交人' (类型: <class 'str'>, 长度: 3, 编码: b'\xe6\x8f\x90\xe4\xba\xa4\xe4\xba\xba')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 17: '财务反馈问题分类' (类型: <class 'str'>, 长度: 8, 编码: b'\xe8\xb4\xa2\xe5\x8a\xa1\xe5\x8f\x8d\xe9\xa6\x88\xe9\x97\xae\xe9\xa2\x98\xe5\x88\x86\xe7\xb1\xbb')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 18: '财务反馈' (类型: <class 'str'>, 长度: 4, 编码: b'\xe8\xb4\xa2\xe5\x8a\xa1\xe5\x8f\x8d\xe9\xa6\x88')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 19: '审核人' (类型: <class 'str'>, 长度: 3, 编码: b'\xe5\xae\xa1\xe6\xa0\xb8\xe4\xba\xba')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 20: '审核时间' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\xae\xa1\xe6\xa0\xb8\xe6\x97\xb6\xe9\x97\xb4')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 21: '收入确认日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe7\xa1\xae\xe8\xae\xa4\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 22: 'GL日期' (类型: <class 'str'>, 长度: 4, 编码: b'GL\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 23: '汇率日期' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\xb1\x87\xe7\x8e\x87\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 24: '关键事件法描述' (类型: <class 'str'>, 长度: 7, 编码: b'\xe5\x85\xb3\xe9\x94\xae\xe4\xba\x8b\xe4\xbb\xb6\xe6\xb3\x95\xe6\x8f\x8f\xe8\xbf\xb0')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 25: '对齐' (类型: <class 'str'>, 长度: 2, 编码: b'\xe5\xaf\xb9\xe9\xbd\x90')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 26: '本次确认金额' (类型: <class 'str'>, 长度: 6, 编码: b'\xe6\x9c\xac\xe6\xac\xa1\xe7\xa1\xae\xe8\xae\xa4\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 27: '已确认收入含税金额' (类型: <class 'str'>, 长度: 9, 编码: b'\xe5\xb7\xb2\xe7\xa1\xae\xe8\xae\xa4\xe6\x94\xb6\xe5\x85\xa5\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 28: '已确认收入不含税金额' (类型: <class 'str'>, 长度: 10, 编码: b'\xe5\xb7\xb2\xe7\xa1\xae\xe8\xae\xa4\xe6\x94\xb6\xe5\x85\xa5\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 29: '未确认收入含税金额' (类型: <class 'str'>, 长度: 9, 编码: b'\xe6\x9c\xaa\xe7\xa1\xae\xe8\xae\xa4\xe6\x94\xb6\xe5\x85\xa5\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 30: '未确认收入不含税金额' (类型: <class 'str'>, 长度: 10, 编码: b'\xe6\x9c\xaa\xe7\xa1\xae\xe8\xae\xa4\xe6\x94\xb6\xe5\x85\xa5\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 31: '行原币含税金额' (类型: <class 'str'>, 长度: 7, 编码: b'\xe8\xa1\x8c\xe5\x8e\x9f\xe5\xb8\x81\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 32: '行原币不含税金额' (类型: <class 'str'>, 长度: 8, 编码: b'\xe8\xa1\x8c\xe5\x8e\x9f\xe5\xb8\x81\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 33: '销售编码' (类型: <class 'str'>, 长度: 4, 编码: b'\xe9\x94\x80\xe5\x94\xae\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 34: '销售' (类型: <class 'str'>, 长度: 2, 编码: b'\xe9\x94\x80\xe5\x94\xae')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 35: '执行主管编码' (类型: <class 'str'>, 长度: 6, 编码: b'\xe6\x89\xa7\xe8\xa1\x8c\xe4\xb8\xbb\xe7\xae\xa1\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 36: '执行主管' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\x89\xa7\xe8\xa1\x8c\xe4\xb8\xbb\xe7\xae\xa1')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 37: '执行人' (类型: <class 'str'>, 长度: 3, 编码: b'\xe6\x89\xa7\xe8\xa1\x8c\xe4\xba\xba')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 38: '合同类型' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 39: '合同状态' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe7\x8a\xb6\xe6\x80\x81')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 40: '产品编码' (类型: <class 'str'>, 长度: 4, 编码: b'\xe4\xba\xa7\xe5\x93\x81\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 41: '二级产品线' (类型: <class 'str'>, 长度: 5, 编码: b'\xe4\xba\x8c\xe7\xba\xa7\xe4\xba\xa7\xe5\x93\x81\xe7\xba\xbf')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 42: '产品分类编码' (类型: <class 'str'>, 长度: 6, 编码: b'\xe4\xba\xa7\xe5\x93\x81\xe5\x88\x86\xe7\xb1\xbb\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 43: '一级产品线' (类型: <class 'str'>, 长度: 5, 编码: b'\xe4\xb8\x80\xe7\xba\xa7\xe4\xba\xa7\xe5\x93\x81\xe7\xba\xbf')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 44: '财务收入类型' (类型: <class 'str'>, 长度: 6, 编码: b'\xe8\xb4\xa2\xe5\x8a\xa1\xe6\x94\xb6\xe5\x85\xa5\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:47:40,726 - excel_processor - INFO - 列 45: '业务收入类型' (类型: <class 'str'>, 长度: 6, 编码: b'\xe4\xb8\x9a\xe5\x8a\xa1\xe6\x94\xb6\xe5\x85\xa5\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 46: '收入行开始日期' (类型: <class 'str'>, 长度: 7, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe8\xa1\x8c\xe5\xbc\x80\xe5\xa7\x8b\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 47: '收入行结束日期' (类型: <class 'str'>, 长度: 7, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe8\xa1\x8c\xe7\xbb\x93\xe6\x9d\x9f\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 48: '收入确认类型.1' (类型: <class 'str'>, 长度: 8, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe7\xa1\xae\xe8\xae\xa4\xe7\xb1\xbb\xe5\x9e\x8b.1')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 49: '税率' (类型: <class 'str'>, 长度: 2, 编码: b'\xe7\xa8\x8e\xe7\x8e\x87')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 50: '行状态' (类型: <class 'str'>, 长度: 3, 编码: b'\xe8\xa1\x8c\xe7\x8a\xb6\xe6\x80\x81')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 51: '乙方编码' (类型: <class 'str'>, 长度: 4, 编码: b'\xe4\xb9\x99\xe6\x96\xb9\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 52: '乙方' (类型: <class 'str'>, 长度: 2, 编码: b'\xe4\xb9\x99\xe6\x96\xb9')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 53: '客户订单系统编码' (类型: <class 'str'>, 长度: 8, 编码: b'\xe5\xae\xa2\xe6\x88\xb7\xe8\xae\xa2\xe5\x8d\x95\xe7\xb3\xbb\xe7\xbb\x9f\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 54: '合同客户类型' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\xae\xa2\xe6\x88\xb7\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 55: '合同广告主' (类型: <class 'str'>, 长度: 5, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\xb9\xbf\xe5\x91\x8a\xe4\xb8\xbb')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 56: '合同开始日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\xbc\x80\xe5\xa7\x8b\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 57: '合同结束日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe7\xbb\x93\xe6\x9d\x9f\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 58: '税额' (类型: <class 'str'>, 长度: 2, 编码: b'\xe7\xa8\x8e\xe9\xa2\x9d')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 59: '合同归档日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe5\xbd\x92\xe6\xa1\xa3\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 60: '人民币金额（含税）' (类型: <class 'str'>, 长度: 9, 编码: b'\xe4\xba\xba\xe6\xb0\x91\xe5\xb8\x81\xe9\x87\x91\xe9\xa2\x9d\xef\xbc\x88\xe5\x90\xab\xe7\xa8\x8e\xef\xbc\x89')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 61: '原币金额（不含税）' (类型: <class 'str'>, 长度: 9, 编码: b'\xe5\x8e\x9f\xe5\xb8\x81\xe9\x87\x91\xe9\xa2\x9d\xef\xbc\x88\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xef\xbc\x89')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 62: '原币金额（不含税）.1' (类型: <class 'str'>, 长度: 11, 编码: b'\xe5\x8e\x9f\xe5\xb8\x81\xe9\x87\x91\xe9\xa2\x9d\xef\xbc\x88\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xef\xbc\x89.1')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 63: '部门' (类型: <class 'str'>, 长度: 2, 编码: b'\xe9\x83\xa8\xe9\x97\xa8')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 64: '所属集团' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\x89\x80\xe5\xb1\x9e\xe9\x9b\x86\xe5\x9b\xa2')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 65: '创建日期' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x88\x9b\xe5\xbb\xba\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 66: '广告主行业' (类型: <class 'str'>, 长度: 5, 编码: b'\xe5\xb9\xbf\xe5\x91\x8a\xe4\xb8\xbb\xe8\xa1\x8c\xe4\xb8\x9a')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 67: '账期类型' (类型: <class 'str'>, 长度: 4, 编码: b'\xe8\xb4\xa6\xe6\x9c\x9f\xe7\xb1\xbb\xe5\x9e\x8b')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 68: '账期' (类型: <class 'str'>, 长度: 2, 编码: b'\xe8\xb4\xa6\xe6\x9c\x9f')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 69: '其他账期' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x85\xb6\xe4\xbb\x96\xe8\xb4\xa6\xe6\x9c\x9f')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 70: '创建人' (类型: <class 'str'>, 长度: 3, 编码: b'\xe5\x88\x9b\xe5\xbb\xba\xe4\xba\xba')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 71: '合同签订日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe7\xad\xbe\xe8\xae\xa2\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 72: '合同作废日期' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x90\x88\xe5\x90\x8c\xe4\xbd\x9c\xe5\xba\x9f\xe6\x97\xa5\xe6\x9c\x9f')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 73: '更新时间' (类型: <class 'str'>, 长度: 4, 编码: b'\xe6\x9b\xb4\xe6\x96\xb0\xe6\x97\xb6\xe9\x97\xb4')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 74: '原币币种' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x8e\x9f\xe5\xb8\x81\xe5\xb8\x81\xe7\xa7\x8d')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 75: '商机编号' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x95\x86\xe6\x9c\xba\xe7\xbc\x96\xe5\x8f\xb7')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 76: '商机名称' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x95\x86\xe6\x9c\xba\xe5\x90\x8d\xe7\xa7\xb0')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 77: '商机金额' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x95\x86\xe6\x9c\xba\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 78: '其他销售编码' (类型: <class 'str'>, 长度: 6, 编码: b'\xe5\x85\xb6\xe4\xbb\x96\xe9\x94\x80\xe5\x94\xae\xe7\xbc\x96\xe7\xa0\x81')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 79: '其他销售' (类型: <class 'str'>, 长度: 4, 编码: b'\xe5\x85\xb6\xe4\xbb\x96\xe9\x94\x80\xe5\x94\xae')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 80: '收入原币含税金额' (类型: <class 'str'>, 长度: 8, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe5\x8e\x9f\xe5\xb8\x81\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 81: '收入原币不含税金额' (类型: <class 'str'>, 长度: 9, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe5\x8e\x9f\xe5\xb8\x81\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 82: '收入本币含税金额' (类型: <class 'str'>, 长度: 8, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe6\x9c\xac\xe5\xb8\x81\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 83: '收入本币不含税金额' (类型: <class 'str'>, 长度: 9, 编码: b'\xe6\x94\xb6\xe5\x85\xa5\xe6\x9c\xac\xe5\xb8\x81\xe4\xb8\x8d\xe5\x90\xab\xe7\xa8\x8e\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 84: '确认金额' (类型: <class 'str'>, 长度: 4, 编码: b'\xe7\xa1\xae\xe8\xae\xa4\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 85: '未确认金额' (类型: <class 'str'>, 长度: 5, 编码: b'\xe6\x9c\xaa\xe7\xa1\xae\xe8\xae\xa4\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 86: '单价' (类型: <class 'str'>, 长度: 2, 编码: b'\xe5\x8d\x95\xe4\xbb\xb7')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 87: '数量' (类型: <class 'str'>, 长度: 2, 编码: b'\xe6\x95\xb0\xe9\x87\x8f')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 88: '验收金额' (类型: <class 'str'>, 长度: 4, 编码: b'\xe9\xaa\x8c\xe6\x94\xb6\xe9\x87\x91\xe9\xa2\x9d')
+2025-07-07 12:47:40,727 - excel_processor - INFO - 列 89: '验收月份' (类型: <class 'str'>, 长度: 4, 编码: b'\xe9\xaa\x8c\xe6\x94\xb6\xe6\x9c\x88\xe4\xbb\xbd')
+2025-07-07 12:47:40,737 - excel_processor - INFO - Excel文件没有id列，已自动添加自增长的id列，起始值为1
+2025-07-07 12:47:40,737 - excel_processor - INFO - === 开始验证数据类型 ===
+2025-07-07 12:47:40,737 - excel_processor - INFO - Excel中的列名: ['id', '合同分类', '合同编号', '合同行编码', '框架编号', '合同名称', '甲方编码', '项目编号', '甲方', '财务审核状态', '收入确认类型', '申请编号', '交付物类型', '交付物/客户确认单', '交付物描述', '提交时间', '提交人', '财务反馈问题分类', '财务反馈', '审核人', '审核时间', '收入确认日期', 'GL日期', '汇率日期', '关键事件法描述', '对齐', '本次确认金额', '已确认收入含税金额', '已确认收入不含税金额', '未确认收入含税金额', '未确认收入不含税金额', '行原币含税金额', '行原币不含税金额', '销售编码', '销售', '执行主管编码', '执行主管', '执行人', '合同类型', '合同状态', '产品编码', '二级产品线', '产品分类编码', '一级产品线', '财务收入类型', '业务收入类型', '收入行开始日期', '收入行结束日期', '收入确认类型.1', '税率', '行状态', '乙方编码', '乙方', '客户订单系统编码', '合同客户类型', '合同广告主', '合同开始日期', '合同结束日期', '税额', '合同归档日期', '人民币金额（含税）', '原币金额（不含税）', '原币金额（不含税）.1', '部门', '所属集团', '创建日期', '广告主行业', '账期类型', '账期', '其他账期', '创建人', '合同签订日期', '合同作废日期', '更新时间', '原币币种', '商机编号', '商机名称', '商机金额', '其他销售编码', '其他销售', '收入原币含税金额', '收入原币不含税金额', '收入本币含税金额', '收入本币不含税金额', '确认金额', '未确认金额', '单价', '数量', '验收金额', '验收月份']
+2025-07-07 12:47:40,737 - excel_processor - INFO - 数据库表结构中的列名: ['id', '合同分类', '合同编号', '合同行编码', '框架编号', '合同名称', '甲方编码', '项目编号', '甲方', '财务审核状态', '收入确认类型', '申请编号', '交付物类型', '交付物/客户确认单', '交付物描述', '提交时间', '提交人', '财务反馈问题分类', '财务反馈', '审核人', '审核时间', '收入确认日期', 'GL日期', '汇率日期', '关键事件法描述', '对齐', '本次确认金额', '已确认收入含税金额', '已确认收入不含税金额', '未确认收入含税金额', '未确认收入不含税金额', '行原币含税金额', '行原币不含税金额', '销售编码', '销售', '执行主管编码', '执行主管', '执行人', '合同类型', '合同状态', '产品编码', '二级产品线', '产品分类编码', '一级产品线', '财务收入类型', '业务收入类型', '收入行开始日期', '收入行结束日期', '收入确认类型.1', '税率', '行状态', '乙方编码', '乙方', '客户订单系统编码', '合同客户类型', '合同广告主', '合同开始日期', '合同结束日期', '税额', '合同归档日期', '人民币金额（含税）', '原币金额（不含税）', '原币金额（不含税）.1', '部门', '所属集团', '创建日期', '广告主行业', '账期类型', '账期', '其他账期', '创建人', '合同签订日期', '合同作废日期', '更新时间', '原币币种', '商机编号', '商机名称', '商机金额', '其他销售编码', '其他销售', '收入原币含税金额', '收入原币不含税金额', '收入本币含税金额', '收入本币不含税金额', '确认金额', '未确认金额', '单价', '数量', '验收金额', '验收月份']
+2025-07-07 12:47:40,737 - excel_processor - INFO - Excel列名: 'id' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,737 - excel_processor - INFO - Excel列名: '合同分类' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,737 - excel_processor - INFO - Excel列名: '合同编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,737 - excel_processor - INFO - Excel列名: '合同行编码' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,737 - excel_processor - INFO - Excel列名: '框架编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,737 - excel_processor - INFO - Excel列名: '合同名称' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,737 - excel_processor - INFO - Excel列名: '甲方编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,737 - excel_processor - INFO - Excel列名: '项目编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '甲方' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '财务审核状态' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '收入确认类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '申请编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '交付物类型' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '交付物/客户确认单' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '交付物描述' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '提交时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '提交人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '财务反馈问题分类' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '财务反馈' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '审核人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '审核时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '收入确认日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: 'GL日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '汇率日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '关键事件法描述' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '对齐' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '本次确认金额' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '已确认收入含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '已确认收入不含税金额' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '未确认收入含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '未确认收入不含税金额' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '行原币含税金额' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '行原币不含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '销售编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '销售' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '执行主管编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '执行主管' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '执行人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '合同类型' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '合同状态' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '产品编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '二级产品线' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '产品分类编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '一级产品线' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '财务收入类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '业务收入类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '收入行开始日期' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '收入行结束日期' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '收入确认类型.1' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '税率' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '行状态' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:47:40,738 - excel_processor - INFO - Excel列名: '乙方编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '乙方' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '客户订单系统编码' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '合同客户类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '合同广告主' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '合同开始日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '合同结束日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '税额' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '合同归档日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '人民币金额（含税）' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '原币金额（不含税）' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '原币金额（不含税）.1' (类型: <class 'str'>, 长度: 11)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '部门' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '所属集团' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '创建日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '广告主行业' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '账期类型' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '账期' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '其他账期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '创建人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '合同签订日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '合同作废日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '更新时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '原币币种' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '商机编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '商机名称' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '商机金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '其他销售编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '其他销售' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '收入原币含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '收入原币不含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '收入本币含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '收入本币不含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '确认金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '未确认金额' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '单价' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '数量' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '验收金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - Excel列名: '验收月份' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - 数据库列名: 'id' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,739 - excel_processor - INFO - 数据库列名: '合同分类' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - 数据库列名: '合同编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,739 - excel_processor - INFO - 数据库列名: '合同行编码' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '框架编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '合同名称' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '甲方编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '项目编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '甲方' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '财务审核状态' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '收入确认类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '申请编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '交付物类型' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '交付物/客户确认单' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '交付物描述' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '提交时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '提交人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '财务反馈问题分类' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '财务反馈' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '审核人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '审核时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '收入确认日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: 'GL日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '汇率日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '关键事件法描述' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '对齐' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '本次确认金额' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '已确认收入含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '已确认收入不含税金额' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '未确认收入含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '未确认收入不含税金额' (类型: <class 'str'>, 长度: 10)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '行原币含税金额' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '行原币不含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '销售编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '销售' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '执行主管编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '执行主管' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '执行人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '合同类型' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '合同状态' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '产品编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,740 - excel_processor - INFO - 数据库列名: '二级产品线' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '产品分类编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '一级产品线' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '财务收入类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '业务收入类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '收入行开始日期' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '收入行结束日期' (类型: <class 'str'>, 长度: 7)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '收入确认类型.1' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '税率' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '行状态' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '乙方编码' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '乙方' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '客户订单系统编码' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '合同客户类型' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '合同广告主' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '合同开始日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '合同结束日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '税额' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '合同归档日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '人民币金额（含税）' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '原币金额（不含税）' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '原币金额（不含税）.1' (类型: <class 'str'>, 长度: 11)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '部门' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '所属集团' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '创建日期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '广告主行业' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '账期类型' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '账期' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '其他账期' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '创建人' (类型: <class 'str'>, 长度: 3)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '合同签订日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '合同作废日期' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '更新时间' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '原币币种' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '商机编号' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '商机名称' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '商机金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '其他销售编码' (类型: <class 'str'>, 长度: 6)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '其他销售' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '收入原币含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '收入原币不含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '收入本币含税金额' (类型: <class 'str'>, 长度: 8)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '收入本币不含税金额' (类型: <class 'str'>, 长度: 9)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '确认金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '未确认金额' (类型: <class 'str'>, 长度: 5)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '单价' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '数量' (类型: <class 'str'>, 长度: 2)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '验收金额' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 数据库列名: '验收月份' (类型: <class 'str'>, 长度: 4)
+2025-07-07 12:47:40,741 - excel_processor - INFO - 检查列 'id' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 'id' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '合同分类' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '合同分类' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '合同编号' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '合同编号' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '合同行编码' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '合同行编码' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '框架编号' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '框架编号' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '合同名称' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '合同名称' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '甲方编码' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '甲方编码' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '项目编号' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '项目编号' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '甲方' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '甲方' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '财务审核状态' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '财务审核状态' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '收入确认类型' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '收入确认类型' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '申请编号' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '申请编号' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '交付物类型' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '交付物类型' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '交付物/客户确认单' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '交付物/客户确认单' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '交付物描述' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '交付物描述' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '提交时间' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '提交时间' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '提交人' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '提交人' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '财务反馈问题分类' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '财务反馈问题分类' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '财务反馈' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '财务反馈' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '审核人' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '审核人' 在Excel中存在
+2025-07-07 12:47:40,742 - excel_processor - INFO - 检查列 '审核时间' 是否在Excel中存在...
+2025-07-07 12:47:40,742 - excel_processor - INFO - ✅ 列 '审核时间' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '收入确认日期' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '收入确认日期' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 'GL日期' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 'GL日期' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '汇率日期' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '汇率日期' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '关键事件法描述' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '关键事件法描述' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '对齐' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '对齐' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '本次确认金额' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '本次确认金额' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '已确认收入含税金额' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '已确认收入含税金额' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '已确认收入不含税金额' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '已确认收入不含税金额' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '未确认收入含税金额' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '未确认收入含税金额' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '未确认收入不含税金额' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '未确认收入不含税金额' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '行原币含税金额' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '行原币含税金额' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '行原币不含税金额' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '行原币不含税金额' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '销售编码' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '销售编码' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '销售' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '销售' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '执行主管编码' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '执行主管编码' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '执行主管' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '执行主管' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '执行人' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '执行人' 在Excel中存在
+2025-07-07 12:47:40,743 - excel_processor - INFO - 检查列 '合同类型' 是否在Excel中存在...
+2025-07-07 12:47:40,743 - excel_processor - INFO - ✅ 列 '合同类型' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '合同状态' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '合同状态' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '产品编码' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '产品编码' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '二级产品线' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '二级产品线' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '产品分类编码' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '产品分类编码' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '一级产品线' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '一级产品线' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '财务收入类型' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '财务收入类型' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '业务收入类型' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '业务收入类型' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '收入行开始日期' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '收入行开始日期' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '收入行结束日期' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '收入行结束日期' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '收入确认类型.1' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '收入确认类型.1' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '税率' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '税率' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '行状态' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '行状态' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '乙方编码' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '乙方编码' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '乙方' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '乙方' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '客户订单系统编码' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '客户订单系统编码' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '合同客户类型' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '合同客户类型' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '合同广告主' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '合同广告主' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '合同开始日期' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '合同开始日期' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '合同结束日期' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '合同结束日期' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '税额' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '税额' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '合同归档日期' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '合同归档日期' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '人民币金额（含税）' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '人民币金额（含税）' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '原币金额（不含税）' 是否在Excel中存在...
+2025-07-07 12:47:40,744 - excel_processor - INFO - ✅ 列 '原币金额（不含税）' 在Excel中存在
+2025-07-07 12:47:40,744 - excel_processor - INFO - 检查列 '原币金额（不含税）.1' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '原币金额（不含税）.1' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '部门' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '部门' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '所属集团' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '所属集团' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '创建日期' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '创建日期' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '广告主行业' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '广告主行业' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '账期类型' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '账期类型' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '账期' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '账期' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '其他账期' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '其他账期' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '创建人' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '创建人' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '合同签订日期' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '合同签订日期' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '合同作废日期' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '合同作废日期' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '更新时间' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '更新时间' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '原币币种' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '原币币种' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '商机编号' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '商机编号' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '商机名称' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '商机名称' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '商机金额' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '商机金额' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '其他销售编码' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '其他销售编码' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '其他销售' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '其他销售' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '收入原币含税金额' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '收入原币含税金额' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '收入原币不含税金额' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '收入原币不含税金额' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '收入本币含税金额' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '收入本币含税金额' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '收入本币不含税金额' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '收入本币不含税金额' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '确认金额' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '确认金额' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '未确认金额' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '未确认金额' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '单价' 是否在Excel中存在...
+2025-07-07 12:47:40,745 - excel_processor - INFO - ✅ 列 '单价' 在Excel中存在
+2025-07-07 12:47:40,745 - excel_processor - INFO - 检查列 '数量' 是否在Excel中存在...
+2025-07-07 12:47:40,746 - excel_processor - INFO - ✅ 列 '数量' 在Excel中存在
+2025-07-07 12:47:40,746 - excel_processor - INFO - 检查列 '验收金额' 是否在Excel中存在...
+2025-07-07 12:47:40,746 - excel_processor - INFO - ✅ 列 '验收金额' 在Excel中存在
+2025-07-07 12:47:40,746 - excel_processor - INFO - 检查列 '验收月份' 是否在Excel中存在...
+2025-07-07 12:47:40,746 - excel_processor - INFO - ✅ 列 '验收月份' 在Excel中存在
+2025-07-07 12:47:40,746 - excel_processor - INFO - 数据类型验证通过
+2025-07-07 12:47:41,088 - excel_processor - INFO - 数据清理完成，共处理24680行数据
+2025-07-07 12:47:41,786 - excel_processor - INFO - 成功转换24680行数据为元组格式
+2025-07-07 12:47:42,950 - database - ERROR - 批量SQL执行失败: (1366, "Incorrect decimal value: 'XD-20250102-028' for column '其他账期' at row 460")
+2025-07-07 12:47:42,951 - excel_to_mysql - ERROR - 插入数据失败
+2025-07-07 12:47:42,951 - database - INFO - 数据库连接已断开

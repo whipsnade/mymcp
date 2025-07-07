@@ -1,0 +1,121 @@
+{
+  "name": "excel-to-mysql-mcp",
+  "version": "1.0.0",
+  "description": "Excel到MySQL数据导入工具的MCP应用，支持Dify框架",
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": "https://github.com/yourusername/excel-to-mysql-mcp",
+  "keywords": ["excel", "mysql", "data-import", "mcp", "dify"],
+  "tools": [
+    {
+      "name": "import_excel_to_mysql",
+      "description": "将Excel文件导入MySQL数据库，支持自动生成ID列、处理空值、批量插入等功能",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "table_name": {
+            "type": "string",
+            "description": "目标数据库表名"
+          },
+          "excel_url": {
+            "type": "string",
+            "description": "Excel文件的URL地址，支持http/https链接"
+          },
+          "sheet_name": {
+            "type": "string",
+            "description": "工作表名称（可选），如果不指定则使用第一个工作表"
+          },
+          "verbose": {
+            "type": "boolean",
+            "description": "是否显示详细日志",
+            "default": false
+          }
+        },
+        "required": ["table_name", "excel_url"]
+      }
+    },
+    {
+      "name": "get_table_structure",
+      "description": "获取MySQL数据库表的结构信息，包括列名和数据类型",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "table_name": {
+            "type": "string",
+            "description": "要查询的表名"
+          }
+        },
+        "required": ["table_name"]
+      }
+    },
+    {
+      "name": "test_database_connection",
+      "description": "测试MySQL数据库连接，验证配置是否正确",
+      "parameters": {
+        "type": "object",
+        "properties": {},
+        "required": []
+      }
+    }
+  ],
+  "features": [
+    "支持Excel文件URL下载",
+    "自动生成ID列（如果Excel中没有ID列）",
+    "自动处理空值和空字符",
+    "支持多种MySQL数据类型",
+    "批量插入提高性能",
+    "详细的日志记录",
+    "支持多工作表",
+    "自动获取数据库表结构"
+  ],
+  "requirements": {
+    "python": ">=3.8",
+    "dependencies": [
+      "pandas>=1.5.0",
+      "pymysql>=1.0.0",
+      "openpyxl>=3.0.0",
+      "python-dotenv>=0.19.0",
+      "requests>=2.28.0",
+      "pydantic>=2.0.0"
+    ]
+  },
+  "configuration": {
+    "database": {
+      "host": "数据库主机地址",
+      "port": "数据库端口",
+      "user": "数据库用户名",
+      "password": "数据库密码",
+      "database": "数据库名称",
+      "charset": "字符集"
+    },
+    "excel": {
+      "start_row": "数据开始行（默认从第二行开始）"
+    },
+    "logging": {
+      "level": "日志级别（INFO/DEBUG/ERROR）"
+    }
+  },
+  "examples": [
+    {
+      "description": "导入用户数据",
+      "tool": "import_excel_to_mysql",
+      "parameters": {
+        "table_name": "users",
+        "excel_url": "https://example.com/users.xlsx",
+        "sheet_name": "Sheet1"
+      }
+    },
+    {
+      "description": "获取表结构",
+      "tool": "get_table_structure",
+      "parameters": {
+        "table_name": "users"
+      }
+    },
+    {
+      "description": "测试数据库连接",
+      "tool": "test_database_connection",
+      "parameters": {}
+    }
+  ]
+} 
